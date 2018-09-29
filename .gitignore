@@ -1,0 +1,10 @@
+.vs/
+AccountManager.App/bin/
+AccountManager.App/obj/
+AccountManager.Business/bin/
+AccountManager.Business/obj/
+AccountManager.UI/static/
+AccountManager.UI/obj/
+AccountManager.UI/bin/
+AccountManager.UI/node_modules/
+packages/
